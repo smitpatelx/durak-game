@@ -5,9 +5,6 @@
     Durak Game
 </p>
 
-# Team Project Requirements (opp-durak-game)
-Game of durak built in .NET framework
-
  **Collaborators**
  - Smit Patel
  - Arjun Chopra
