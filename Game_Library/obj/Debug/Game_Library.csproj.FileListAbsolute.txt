@@ -1,0 +1,10 @@
+D:\Study\SEMESTER_6\OOP3\final_project\MY_GIT_CODE\opp_durak_game_final\opp-durak-game-master\DurakLibrary\bin\Debug\DurakLibrary.dll
+D:\Study\SEMESTER_6\OOP3\final_project\MY_GIT_CODE\opp_durak_game_final\opp-durak-game-master\DurakLibrary\bin\Debug\DurakLibrary.pdb
+D:\Study\SEMESTER_6\OOP3\final_project\MY_GIT_CODE\opp_durak_game_final\opp-durak-game-master\DurakLibrary\obj\Debug\DurakLibrary.dll
+D:\Study\SEMESTER_6\OOP3\final_project\MY_GIT_CODE\opp_durak_game_final\opp-durak-game-master\DurakLibrary\obj\Debug\DurakLibrary.pdb
+C:\Users\arjun\Documents\GitHub\durak-game\Game_Library\bin\Debug\DurakLibrary.dll
+C:\Users\arjun\Documents\GitHub\durak-game\Game_Library\bin\Debug\DurakLibrary.pdb
+C:\Users\arjun\Documents\GitHub\durak-game\Game_Library\obj\Debug\Game_Library.csprojAssemblyReference.cache
+C:\Users\arjun\Documents\GitHub\durak-game\Game_Library\obj\Debug\Game_Library.csproj.CoreCompileInputs.cache
+C:\Users\arjun\Documents\GitHub\durak-game\Game_Library\obj\Debug\DurakLibrary.dll
+C:\Users\arjun\Documents\GitHub\durak-game\Game_Library\obj\Debug\DurakLibrary.pdb
